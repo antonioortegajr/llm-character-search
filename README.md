@@ -7,6 +7,8 @@ This repo was started because I am a Dr. Doom fan. He may not always have his ow
 
 ## Use
 
+[install ollama](https://ollama.com/download) and run locally
+
 python3 -m venv venv
 
 source venv/bin/activate
